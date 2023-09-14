@@ -2,8 +2,10 @@
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
+  output: 'export',
   images: {
-    domains: ['lh3.googleusercontent.com', 'firebasestorage.googleapis.com']
+    unoptimised: true
+    // domains: ['lh3.googleusercontent.com', 'firebasestorage.googleapis.com']
   }
 };
 
