@@ -8,7 +8,15 @@
 
 ## Preview 🎬
 
-https://user-images.githubusercontent.com/55032197/201472767-9db0177a-79b5-4913-8666-1744102b0ad7.mp4
+
+
+
+https://github.com/ArnabDey1543/twitter/assets/81821430/0384c2f5-0d17-4a34-b2c6-c67d83e74fa6
+
+
+
+
+
 
 ## Features ✨
 
@@ -32,15 +40,9 @@ https://user-images.githubusercontent.com/55032197/201472767-9db0177a-79b5-4913-
 - [Next.js](https://nextjs.org)
 - [TypeScript](https://www.typescriptlang.org)
 - [Tailwind CSS](https://tailwindcss.com)
+- [MongoDB](https://www.mongodb.com)
 - [Firebase](https://firebase.google.com)
-- [SWR](https://swr.vercel.app)
-- [Headless UI](https://headlessui.com)
-- [React Hot Toast](https://react-hot-toast.com)
-- [Framer Motion](https://framer.com)
 
-## Development 💻
 
-Optional:
 
-- If you want to get trending data from Twitter API, you need to create a Twitter developer account and get your API keys. Then add your API keys to `.env.development`. I hope Elon Musk doesn't make this API paid 😅.
-- If you want to make the user stats synced with the deleted tweets, you need to enable the Cloud Functions for Firebase. Then deploy the Cloud Functions.
+
